@@ -41,4 +41,4 @@ Open http://127.0.0.1:8000 in your browser.
 https://github.com/yernelkent13/laravel-request-system
 
 ## Laboratory Verification
-Verification instruction: check the project.
+Verification instruction: open the Laravel welcome page.
